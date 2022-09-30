@@ -1,7 +1,9 @@
+//Testing final commit
+
 function seed() {
 let myArr = [];
-for (i = 0; i < args.length; i++) {
-  myArr.push(args[i]);
+for (i = 0; i < arguments.length; i++) {
+  myArr.push(arguments[i]);
 }
 return myArr;
 };
